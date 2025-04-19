@@ -79,6 +79,9 @@ python main.py
   ```bash
     curl -l https://github.com/Sage563/Spam-Filter/releases/download/1.0/zip.7z
   ```
+-Extract
+- **Before Running**:
+- Go to spam_filter dicrectory from the download and edit "key.txt" and put your key
 ## Programmatic Usage
 Import and configure modules in your own code:
 
