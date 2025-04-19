@@ -77,7 +77,7 @@ python main.py
 - **Download** :When in the Realse padge 
 - **Command**:
   ```bash
-    curl -l [text](https://github.com/Sage563/Spam-Filter/releases/download/1.0/zip.7z)
+    curl -l https://github.com/Sage563/Spam-Filter/releases/download/1.0/zip.7z
   ```
 ## Programmatic Usage
 Import and configure modules in your own code:
