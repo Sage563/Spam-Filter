@@ -74,14 +74,12 @@ python main.py
   ```
 
 ## Install for Useing
-- **Download** :When in the Realse padge 
-- **Command**:
-  ```bash
-    curl -l https://github.com/Sage563/Spam-Filter/releases/download/1.0/zip.7z
-  ```
+- **Download** :When in the Relase padge(latest) download zip.zip
+
 -Extract
 - **Before Running**:
 - Go to spam_filter dicrectory from the download and edit "key.txt" and put your key
+- Then your ready all bugs are fixed code in the file "YOUR CODE HERE.py"
 ## Programmatic Usage
 Import and configure modules in your own code:
 
