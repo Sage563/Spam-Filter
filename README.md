@@ -23,7 +23,7 @@ A Python-based CLI tool for fetching YouTube comments, detecting spam, analyzing
 ## Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/spam_filter.git
+   git clone github.com/Sage563/Spam-Filter.git
    cd spam_filter/spam_filter
    ```
 2. **Create a virtual environment** (recommended)
